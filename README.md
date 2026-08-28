@@ -26,27 +26,45 @@ https://raw.githubusercontent.com/Day-Day-S-t-u-d-y/venera-configs-custom/main/i
 
 | 名称 | Key | Version | 文件 |
 |---|---|---:|---|
+| 18漫画 | `mh18` | 1.0.0 | `mh18.js` |
+| 爱看漫 | `ikmmh` | 1.0.6 | `ikmmh.js` |
 | 百合会 | `baihehui` | 1.0.0 | `baihehui.js` |
 | 包子漫画 | `baozi` | 1.1.6 | `baozi.js` |
-| CCC追漫台 | `ccc` | 1.0.1 | `ccc.js` |
-| comick | `comick` | 1.2.0 | `comick.js` |
-| 拷贝漫画 | `copy_manga` | 1.6.0 | `copy_manga.js` |
-| 动漫屋 | `dm5` | 7.0.0 | `dm5.js` |
 | 动漫啦 | `dongman_la` | 1.0.1 | `dongman_la.js` |
+| 动漫屋 | `dm5` | 7.0.0 | `dm5.js` |
 | 古风漫画 | `GfmhApp` | 1.3.0 | `gfmh.js` |
-| GoDa漫画 | `goda` | 1.2.1 | `goda.js` |
-| 爱看漫 | `ikmmh` | 1.0.6 | `ikmmh.js` |
-| Komiic | `Komiic` | 1.0.6 | `komiic.js` |
-| MangaDex | `manga_dex` | 1.1.1 | `manga_dex.js` |
+| 嗨皮漫画 | `happy` | 1.0.0 | `happy.js` |
+| 禁漫天堂 | `jm` | 1.4.0 | `jm.js` |
+| 拷贝漫画 | `copy_manga` | 1.6.0 | `copy_manga.js` |
+| 漫画1234 | `mh1234` | 1.0.0 | `mh1234.js` |
 | 漫画柜 | `ManHuaGui` | 1.2.1 | `manhuagui.js` |
 | 漫画人 | `manhuaren` | 1.0.0 | `manhuaren.js` |
-| 香蕉漫画 | `manhuauo_banana_v2` | 1.0.3 | `manhuauo.js` |
 | 漫蛙吧 | `manwaba` | 1.1.3 | `manwaba.js` |
-| MYCOMIC | `mycomic` | 1.1.0 | `mycomic.js` |
+| 漫小肆 | `mxs` | 1.0.0 | `mxs.js` |
+| 热辣漫画 | `hot_manga` | 1.0.0 | `hot_manga.js` |
 | 如漫画 | `rumanhua_fixed_v15` | 1.2.6 | `rumanhua.js` |
+| 少年ジャンプ＋ | `shonen_jump_plus` | 1.1.1 | `shonen_jump_plus.js` |
+| 紳士漫畫 | `wnacg` | 1.0.5 | `wnacg.js` |
 | 腾讯动漫（正版） | `qq_comic_official_v1` | 1.0.3 | `tencent_comic_official.js` |
+| 香蕉漫画 | `manhuauo_banana_v2` | 1.0.3 | `manhuauo.js` |
 | 优酷漫画 (修复版) | `ykmh` | 1.0.6 | `ykmh.js` |
 | 再漫画 | `zaimanhua` | 1.0.2 | `zaimanhua.js` |
+| CCC追漫台 | `ccc` | 1.0.1 | `ccc.js` |
+| comick | `comick` | 1.2.0 | `comick.js` |
+| ehentai | `ehentai` | 1.1.8 | `ehentai.js` |
+| GoDa漫画 | `goda` | 1.2.1 | `goda.js` |
+| H-Comic | `hcomic` | 1.0.0 | `hcomic.js` |
+| hitomi.la | `hitomi` | 1.1.2 | `hitomi.js` |
+| jcomic.net | `jcomic` | 1.0.0 | `jcomic.js` |
+| Kavita | `kavita` | 1.0.0 | `kavita.js` |
+| Komga | `komga` | 1.0.0 | `komga.js` |
+| Komiic | `Komiic` | 1.0.6 | `komiic.js` |
+| Lanraragi | `lanraragi` | 1.1.0 | `lanraragi.js` |
+| MangaDex | `manga_dex` | 1.1.1 | `manga_dex.js` |
+| MYCOMIC | `mycomic` | 1.1.0 | `mycomic.js` |
+| nhentai | `nhentai` | 1.1.0 | `nhentai.js` |
+| Picacg | `picacg` | 1.0.6 | `picacg.js` |
+| カドコミ | `comic_walker` | 1.0.0 | `comic_walker.js` |
 
 ## 维护规则
 
