@@ -14,7 +14,7 @@ class DongManLa extends ComicSource {
     key = "dongman_la";
     version = "1.0.1";
     minAppVersion = "1.0.0";
-    url = "";
+    url = "https://cdn.jsdelivr.net/gh/Day-Day-S-t-u-d-y/venera-configs-custom@main/dongman_la.js";
 
     baseUrl = "https://www.dongman.la";
     imageBaseUrl = "https://img.dongman.la";

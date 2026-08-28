@@ -4,7 +4,7 @@ class YKMHSource extends ComicSource {
     key = "ykmh"
     version = "1.0.6"
     minAppVersion = "1.4.0"
-    url = "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ykmh.js"
+    url = "https://cdn.jsdelivr.net/gh/Day-Day-S-t-u-d-y/venera-configs-custom@main/ykmh.js"
 
     /**
      * 修复日志分析结论 (you05.txt)：

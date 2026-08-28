@@ -23,7 +23,7 @@ class TencentComicOfficial extends ComicSource {
     key = "qq_comic_official_v1"
     version = "1.0.3"
     minAppVersion = "1.0.0"
-    url = ""
+    url = "https://cdn.jsdelivr.net/gh/Day-Day-S-t-u-d-y/venera-configs-custom@main/tencent_comic_official.js"
 
     baseUrl = "https://m.ac.qq.com"
     headers = {

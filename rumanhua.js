@@ -3,7 +3,7 @@ class RuManHua extends ComicSource {
     key = "rumanhua_fixed_v15"
     version = "1.2.6"
     minAppVersion = "1.0.0"
-    url = ""
+    url = "https://cdn.jsdelivr.net/gh/Day-Day-S-t-u-d-y/venera-configs-custom@main/rumanhua.js"
 
     settings = {
         image_quality: {

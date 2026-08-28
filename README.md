@@ -4,19 +4,23 @@
 
 ## 使用方式
 
-1. 把本目录推送到 GitHub 仓库，例如 `your-name/venera-configs-custom`。
+1. 本目录已推送到 GitHub 仓库 `Day-Day-S-t-u-d-y/venera-configs-custom`。
 2. 在 Venera 的「漫画源」页面点击添加仓库。
 3. 仓库地址填写：
 
 ```text
-https://cdn.jsdelivr.net/gh/your-name/venera-configs-custom@main/index.json
+https://cdn.jsdelivr.net/gh/Day-Day-S-t-u-d-y/venera-configs-custom@main/index.json
 ```
 
 也可以直接使用 GitHub Raw 地址：
 
 ```text
-https://raw.githubusercontent.com/your-name/venera-configs-custom/main/index.json
+https://raw.githubusercontent.com/Day-Day-S-t-u-d-y/venera-configs-custom/main/index.json
 ```
+
+## 实时更新
+
+仓库推送到 `main` 后，GitHub Actions 会自动对变更的 `.js` 和 `.json` 文件执行 jsDelivr purge。Venera 端点击仓库刷新时，会从本仓库的 `index.json` 和各源文件地址获取最新版本。
 
 ## 已整合漫画源
 

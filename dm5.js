@@ -7,7 +7,7 @@ class DM5 extends ComicSource {
 
     minAppVersion = "1.6.0";
 
-    url = "https://m.dm5.com/";
+    url = "https://cdn.jsdelivr.net/gh/Day-Day-S-t-u-d-y/venera-configs-custom@main/dm5.js";
 
     settings = {
         domain: {
