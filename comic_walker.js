@@ -1,14 +1,14 @@
 class ComicWalker extends ComicSource {
   name = "カドコミ";
   key = "comic_walker";
-  version = "1.0.0";
+  version = "1.0.2";
   minAppVersion = "1.6.0";
   url =
     "https://cdn.jsdelivr.net/gh/Day-Day-S-t-u-d-y/venera-configs-custom@main/comic_walker.js";
 
   api_key = "ytBrdQ2ZYdRQguqEusVLxQVUgakNnVht";
 
-  latestVersion = "1.4.13";
+  latestVersion = "1.6.4";
 
   api_base = "https://mobileapp.comic-walker.com";
 
@@ -81,11 +81,16 @@ class ComicWalker extends ComicSource {
     const resp = await Network.get(itunes_api);
 
     if (resp.status == 200) {
-      response = JSON.parse(resp.body);
-      this.latestVersion = response.version;
+      const response = JSON.parse(resp.body);
+      this.latestVersion = response.results?.[0]?.version || this.latestVersion;
     }
 
-    await this.refreshToken();
+    try {
+      await this.refreshToken();
+    } catch (_) {
+      // The anonymous token service may be temporarily unavailable.
+      // Defer the failure until a request actually needs authentication.
+    }
   }
 
   explore = [

@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/Day-Day-S-t-u-d-y/venera-configs-custom/main/i
 | 嗨皮漫画 | `happy` | 1.0.0 | `happy.js` |
 | 禁漫天堂 | `jm` | 1.4.0 | `jm.js` |
 | 拷贝漫画 | `copy_manga` | 1.6.0 | `copy_manga.js` |
-| 漫画1234 | `mh1234` | 1.0.0 | `mh1234.js` |
 | 漫画柜 | `ManHuaGui` | 1.2.1 | `manhuagui.js` |
 | 漫画人 | `manhuaren` | 1.0.0 | `manhuaren.js` |
 | 漫蛙吧 | `manwaba` | 1.1.3 | `manwaba.js` |
@@ -51,7 +50,7 @@ https://raw.githubusercontent.com/Day-Day-S-t-u-d-y/venera-configs-custom/main/i
 | 再漫画 | `zaimanhua` | 1.0.2 | `zaimanhua.js` |
 | CCC追漫台 | `ccc` | 1.0.1 | `ccc.js` |
 | comick | `comick` | 1.2.0 | `comick.js` |
-| ehentai | `ehentai` | 1.1.8 | `ehentai.js` |
+| ehentai | `ehentai` | 1.2.0 | `ehentai.js` |
 | GoDa漫画 | `goda` | 1.2.1 | `goda.js` |
 | H-Comic | `hcomic` | 1.0.0 | `hcomic.js` |
 | hitomi.la | `hitomi` | 1.1.2 | `hitomi.js` |
@@ -59,12 +58,12 @@ https://raw.githubusercontent.com/Day-Day-S-t-u-d-y/venera-configs-custom/main/i
 | Kavita | `kavita` | 1.0.0 | `kavita.js` |
 | Komga | `komga` | 1.0.0 | `komga.js` |
 | Komiic | `Komiic` | 1.0.6 | `komiic.js` |
-| Lanraragi | `lanraragi` | 1.1.0 | `lanraragi.js` |
-| MangaDex | `manga_dex` | 1.1.1 | `manga_dex.js` |
+| Lanraragi | `lanraragi` | 1.2.0 | `lanraragi.js` |
+| MangaDex | `manga_dex` | 1.2.0 | `manga_dex.js` |
 | MYCOMIC | `mycomic` | 1.1.0 | `mycomic.js` |
 | nhentai | `nhentai` | 1.1.0 | `nhentai.js` |
 | Picacg | `picacg` | 1.0.6 | `picacg.js` |
-| カドコミ | `comic_walker` | 1.0.0 | `comic_walker.js` |
+| カドコミ | `comic_walker` | 1.0.2 | `comic_walker.js` |
 
 ## 维护规则
 

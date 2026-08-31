@@ -63,12 +63,6 @@
         "version": "1.6.0"
     },
     {
-        "name": "漫画1234",
-        "fileName": "mh1234.js",
-        "key": "mh1234",
-        "version": "1.0.0"
-    },
-    {
         "name": "漫画柜",
         "fileName": "manhuagui.js",
         "key": "ManHuaGui",
@@ -160,7 +154,7 @@
         "name": "ehentai",
         "fileName": "ehentai.js",
         "key": "ehentai",
-        "version": "1.1.8"
+        "version": "1.2.0"
     },
     {
         "name": "GoDa漫画",
@@ -208,13 +202,14 @@
         "name": "Lanraragi",
         "fileName": "lanraragi.js",
         "key": "lanraragi",
-        "version": "1.1.0"
+        "version": "1.2.0"
     },
     {
         "name": "MangaDex",
         "fileName": "manga_dex.js",
         "key": "manga_dex",
-        "version": "1.1.1"
+        "version": "1.2.0",
+        "description": "Forum login and comments are supported."
     },
     {
         "name": "MYCOMIC",
@@ -238,6 +233,7 @@
         "name": "カドコミ",
         "fileName": "comic_walker.js",
         "key": "comic_walker",
-        "version": "1.0.0"
+        "version": "1.0.2",
+        "description": "修复 App 版本检测，避免接口返回 upgrade_required。"
     }
 ]

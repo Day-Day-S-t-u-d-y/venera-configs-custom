@@ -16,7 +16,6 @@ Added missing sources: 18
 - Lanraragi | lanraragi | 1.1.0 | lanraragi.js
 - Komga | komga | 1.0.0 | komga.js
 - カドコミ | comic_walker | 1.0.0 | comic_walker.js
-- 漫画1234 | mh1234 | 1.0.0 | mh1234.js
 - 18漫画 | mh18 | 1.0.0 | mh18.js
 - 漫小肆 | mxs | 1.0.0 | mxs.js
 - H-Comic | hcomic | 1.0.0 | hcomic.js
